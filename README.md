@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning development
 - 💞️ I’m looking to collaborate on development related projects
 - 📫 How to reach me elmabenny27@gmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: nothing
+  
 
 <!---
 bennyelmala/bennyelmala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
