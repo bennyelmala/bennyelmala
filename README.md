@@ -40,5 +40,6 @@ A computer vision project using YOLO for real-time pedestrian detection and obje
 
 ## Contact
 
-📧 Email: elmalaBenny27@gmail.com  
-🔗 LinkedIn: Add your LinkedIn link here  
+📧 Email: elmalabenny27@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/bennyelmala
+  
