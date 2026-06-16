@@ -14,7 +14,18 @@ I am interested in building intelligent software systems using Machine Learning,
 - Deep Learning
 - Natural Language Processing
 - Software Engineering
+## Publications
 
+### AutoAgentHire: An Agentic AI System for Autonomous LinkedIn Job Applications
+
+- Accepted at ICRETM 2026
+- Paper ID: ICRETM2600507
+
+Research Areas:
+- Agentic AI
+- Large Language Models
+- Intelligent Automation
+  
 ## Featured Work
 
 ### AutoAgentHire
