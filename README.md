@@ -1,11 +1,44 @@
-- 👋 Hi, I’m @bennyelmala
-- 👀 I’m interested in cs reserach
-- 🌱 I’m currently learning development
-- 💞️ I’m looking to collaborate on development related projects
-- 📫 How to reach me elmabenny27@gmail.com
-  
+# Hi, I'm Benny Elmala 👋
 
-<!---
-bennyelmala/bennyelmala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science graduate specializing in Artificial Intelligence and Machine Learning.
+
+## About Me
+
+I am interested in building intelligent software systems using Machine Learning, Deep Learning, and Agentic AI. My work focuses on applying AI to real-world problems through research-oriented and practical software projects.
+
+## Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Agentic AI Systems
+- Deep Learning
+- Natural Language Processing
+- Software Engineering
+
+## Featured Work
+
+### AutoAgentHire
+An Agentic AI system for autonomous LinkedIn job applications using LLMs, browser automation, and resume-job matching.
+
+### DermaSense-AI
+A deep learning-based skin and hair disease diagnosis system using image classification.
+
+### Real-Time Pedestrian Detection
+A computer vision project using YOLO for real-time pedestrian detection and object recognition.
+
+## Technical Skills
+
+**Languages:** Python, Java, C, SQL  
+**AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision  
+**Frameworks:** FastAPI, Flask, TensorFlow, PyTorch, OpenCV  
+**Tools:** Git, GitHub, Linux, VS Code, Jupyter Notebook  
+**Databases:** MySQL, SQLite
+
+## Publications
+
+- AutoAgentHire: An Agentic AI System for Autonomous LinkedIn Job Applications
+
+## Contact
+
+📧 Email: elmalaBenny27@gmail.com  
+🔗 LinkedIn: Add your LinkedIn link here  
